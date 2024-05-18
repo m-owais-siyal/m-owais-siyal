@@ -9,9 +9,6 @@ Hi there! I'm Muhammad Owais Siyal, a dedicated Computer Science professional wi
 - BS(CS), FAST School of Computer Science
   - September 2020 – May 2024
   - GPA: 3.3/4.0
-- A-LEVELS, Beaconhouse College Campus
-  - September 2018 – August 2020
-  - Grades: 4A out of 4 subjects
 
 ## Experience 
 - Working as a Software Developer in [Stingray Technologies Paksitan](https://stingray.com.pk/).
