@@ -15,7 +15,7 @@ Hi there! I'm Muhammad Owais Siyal, a dedicated Computer Science student with a 
 
 ## Skills
 - **Programming Languages**: C, C++, JAVA, Python
-- **Frameworks**: React
+- **Frameworks**: React , Qt , Flutter
 - **Web-based Frontend**: HTML5, CSS3
 - **Database Management**: MySQL
 - **Web-based Backend**: JavaScript, PHP, Flask
