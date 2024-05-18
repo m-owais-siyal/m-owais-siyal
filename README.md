@@ -25,6 +25,9 @@ Hi there! I'm Muhammad Owais Siyal, a dedicated Computer Science professional wi
 - **Web-based Backend**: JavaScript, PHP, Flask
 - **Machine Learning**: TensorFlow, Python libraries
 
+## Certificates
+-**Certified in CyberSecurity** : I have obtained the CC sertificated by ISC2 , showcasing my abilities to safeguard digital assets and mitigate online threats. 
+
 ## Let's Connect
 Feel free to explore my repositories and reach out to collaborate or connect! 😊
 <!---
