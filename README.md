@@ -2,7 +2,7 @@
 📞 +92 313 2076739 | 📧 owaissiyal29@gmail.com | 👔 LinkedIn: [Owais Siyal](https://www.linkedin.com/in/owais-siyal-3a07a0225/)  
 
 ## About Me
-Hi there! I'm Muhammad Owais Siyal, a dedicated Computer Science professional with a passion for coding and problem-solving. Completed my Bachelors in Computer Science from FAST NUCES School of Computer Science in spring 2024.Currently working as a software developer in [Stingray Technologies](https://stingray.com.pk/) .I'm enthusiastic about leveraging my technical skills and communication abilities to contribute effectively in the development field while continuously learning and adapting to industry standards.
+Hi there! I'm Muhammad Owais Siyal, a dedicated Computer Science professional with a passion for coding and problem-solving. Completed my Bachelors in Computer Science from FAST NUCES School of Computer Science in spring 2024. Iam currently working as a software developer in [Stingray Technologies](https://stingray.com.pk/) .I'm enthusiastic about leveraging my technical skills and communication abilities to contribute effectively in the development field while continuously learning and adapting to industry standards.
 
 
 ## Education
@@ -15,7 +15,7 @@ Hi there! I'm Muhammad Owais Siyal, a dedicated Computer Science professional wi
 
 ## Experience 
 - Working as a Software Developer in [Stingray Technologies Paksitan](https://stingray.com.pk/).
-    - Working in Confidential Naval Projects for the pakistani navy to help safeguard Pakistan as technology takes over more and more sectors even defense. 
+    - Working in Confidential Naval Projects for the pakistani navy to help safeguard Pakistan as technology becomes more crutail for many major sectors like national defense. 
 
 ## Skills
 - **Programming Languages**: C, C++, JAVA, Python
